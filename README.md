@@ -20,9 +20,9 @@
 ## Installation
 
 ```
-$ git clone https://github.com/ethan-funny/flask-todo-app
-$ cd flask-todo-app
-$ mkvirtualenv flask-todo
+$ git clone https://github.com/kiminosuizouwotabetai/flask-todo-app-docker-ready
+$ cd flask-todo-app-docker-ready
+$ mkvirtualenv flask-todo-app-docker-ready
 $ pip install -r requirements.txt
 ```
 
